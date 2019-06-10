@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT react_native_hook_ex_4479.wsgi:application

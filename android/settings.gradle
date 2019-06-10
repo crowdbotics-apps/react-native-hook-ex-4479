@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_hook_ex_4479'
+
+include ':app'
